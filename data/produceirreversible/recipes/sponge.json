@@ -1,0 +1,21 @@
+{
+    "group":"mincraft:sponge",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BBB",
+        "BAB",
+        "BBB"
+    ],
+    "key": {
+        "A":{
+            "item": "miecraft:hay_block"
+        },
+        "B":{
+            "item": "minecraft:slime_block"
+        }
+    },
+    "result": {
+        "item": "mincraft:sponge",
+        "count": 1
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "group":"mincraft:dragon_breath",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BBB",
+        "BAB",
+        "BBB"
+    ],
+    "key": {
+        "A":{
+            "item": "minecraft:dragon_egg"
+        },
+        "B":{
+            "item": "minecraft:glass_bottle"
+        }
+    },
+    "result": {
+        "item": "minecraft:dragon_breath",
+        "count": 8
+    }
+}

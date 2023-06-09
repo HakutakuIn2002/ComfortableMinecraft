@@ -1,0 +1,13 @@
+{
+    "group":"mincraft:soul_soil",
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "minecraft:soul_sand"
+    },
+    "addition": {
+        "item": "minecraft:dirt"
+    },
+    "result": {
+        "item": "minecraft:soul_soil"
+    }
+}
