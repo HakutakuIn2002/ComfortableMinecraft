@@ -1,13 +1,15 @@
 {
-    "group":"mincraft:soul_soil",
-    "type": "minecraft:smithing",
-    "base": {
-        "item": "minecraft:soul_sand"
-    },
-    "addition": {
-        "item": "minecraft:dirt"
-    },
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:soul_sand"
+        },
+        {
+            "item": "minecraft:dirt"
+        }
+    ],
     "result": {
-        "item": "minecraft:soul_soil"
+        "item": "minecraft:soul_soil",
+        "count": 2
     }
 }
